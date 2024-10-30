@@ -12,7 +12,7 @@ def setup():
     
  global logo, x, y, x_speed, y_speed
     
- logo = py5.load_image("si.png")
+ logo = py5.load_image("si.jpg")
     
  x_speed= 2
  y_speed= 2
